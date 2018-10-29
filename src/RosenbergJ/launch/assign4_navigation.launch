@@ -1,0 +1,6 @@
+<launch>
+
+    <!-- Run custom navigation node -->
+    <node pkg="RosenbergJ" type="navigation.py" name="navigation" output="screen"/>
+
+</launch>
